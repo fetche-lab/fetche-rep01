@@ -30,45 +30,44 @@ this is the other image ![here](https://www2.helsinki.fi/sites/default/files/thu
 
 ***welcome to the world of front end developers***
 
-_the world is a beautiful place_
+_the world is a beautiful place_ :wave:
 
 ___who is going to school today___
 
 **wonderful**
 
-1 felix
+1. felix
+2. maria
+3. john
+4. nancy
 
-2 maria
+1. felix
+4. nana
+2. hilda
+5. lucas
 
-3 john
+i. felix
 
-4 nancy
+iii. frank
 
-1 felix
-
-4 nana
-
-2 hilda
-
-5 lucas
-
-i felix
-
-iii frank
-
-ii david
+ii. david
 
 iv godbless
 
 1. wilson
 
 <ul>drinks</ul>
-*beach
-*movies
-*music
+
+*beach*
+
+**movies**
+
+***music***
+
 2. hilda
--research
--hydrate
--walkouts
--meditate
+
+- research
+- hydrate
+- walkouts
+- meditate
 
