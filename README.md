@@ -71,3 +71,29 @@ iv godbless
 - walkouts
 - meditate
 
+**How to make Tables**
+**Set one**
+|ID|Name|Contact Details|
+|---|---|---|
+|01.|Felix Lisso|+254704300862|
+|02.|Brenda Saturn|+254704400200|
+|03.|Lucas Frank|+254604564678|
+|04.|Cleopatra Junior|+254777777776|
+
+**set two**
+
+|ID|Name|Contact Details|
+|---:|---:|---:|
+|01.|Felix Lisso|+254704300862|
+|02.|Brenda Saturn|+254704400200|
+|03.|Lucas Frank|+254604564678|
+|04.|Cleopatra Junior|+254777777776|
+
+**set three**
+
+|ID|Name|Contact Details|
+|---|:---:|---|
+|01.|Felix Lisso|+254704300862|
+|02.|Brenda Saturn|+254704400200|
+|03.|Lucas Frank|+254604564678|
+|04.|Cleopatra Junior|+254777777776|
